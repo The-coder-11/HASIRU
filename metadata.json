@@ -1,0 +1,10 @@
+{
+  "name": "HASIRU - AI-Powered Agricultural Marketplace",
+  "description": "Direct Market-Access Platform for Marginal Farmers in Dakshina Kannada & Udupi, Karnataka. Connect directly with buyers, track transparent Mandi prices, get AI Price Advice, and list produce via Kannada voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
